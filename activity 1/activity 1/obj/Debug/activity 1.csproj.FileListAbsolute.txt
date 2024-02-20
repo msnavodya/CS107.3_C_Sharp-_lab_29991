@@ -1,0 +1,7 @@
+C:\Users\SADINI\Desktop\C#\activity 1\activity 1\bin\Debug\activity 1.exe.config
+C:\Users\SADINI\Desktop\C#\activity 1\activity 1\bin\Debug\activity 1.exe
+C:\Users\SADINI\Desktop\C#\activity 1\activity 1\bin\Debug\activity 1.pdb
+C:\Users\SADINI\Desktop\C#\activity 1\activity 1\obj\Debug\activity 1.csproj.AssemblyReference.cache
+C:\Users\SADINI\Desktop\C#\activity 1\activity 1\obj\Debug\activity 1.csproj.CoreCompileInputs.cache
+C:\Users\SADINI\Desktop\C#\activity 1\activity 1\obj\Debug\activity 1.exe
+C:\Users\SADINI\Desktop\C#\activity 1\activity 1\obj\Debug\activity 1.pdb
